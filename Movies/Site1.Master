@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Movies.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="Body">
+    <form id="form1" runat="server">
+    <div>
+        <asp:LinkButton ForeColor="DodgerBlue" ID="lnkMovieList" runat="server" PostBackUrl="~/List.aspx">Movie List</asp:LinkButton>
+        <asp:LinkButton ForeColor="Aqua" ID="lnkModifyMoviesList" runat="server" PostBackUrl="~/Default.aspx">Modify Movie List</asp:LinkButton>   
+        <asp:LinkButton ForeColor="MediumPurple" ID="lnkSeries" runat="server" PostBackUrl="~/Series.aspx">Series</asp:LinkButton>
+        <asp:LinkButton ForeColor="MediumOrchid" ID="lnkDownload" runat="server" PostBackUrl="~/Download.aspx">Download</asp:LinkButton>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+        <br /><asp:LinkButton ForeColor="LightSkyBlue" CssClass="Right" Font-Size="Large" ID="lnkTVShows" runat="server" PostBackUrl="~/TVShows.aspx">Go To TV Shows</asp:LinkButton>
+    </div>
+    </form>
+</body>
+</html>

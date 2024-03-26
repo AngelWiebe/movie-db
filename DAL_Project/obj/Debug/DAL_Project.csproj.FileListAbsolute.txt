@@ -1,0 +1,30 @@
+c:\users\scottw\documents\visual studio 2010\Projects\DAL_Project\DAL_Project\bin\Debug\DAL_Project.dll
+c:\users\scottw\documents\visual studio 2010\Projects\DAL_Project\DAL_Project\bin\Debug\DAL_Project.pdb
+c:\users\scottw\documents\visual studio 2010\Projects\DAL_Project\DAL_Project\obj\Debug\ResolveAssemblyReference.cache
+c:\users\scottw\documents\visual studio 2010\Projects\DAL_Project\DAL_Project\obj\Debug\DAL_Project.dll
+c:\users\scottw\documents\visual studio 2010\Projects\DAL_Project\DAL_Project\obj\Debug\DAL_Project.pdb
+C:\Users\Darlok\Documents\Visual Studio 2012\Projects\ConsoleApplicationWithDAL\DAL_Project\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\Darlok\Documents\Visual Studio 2012\Projects\ConsoleApplicationWithDAL\DAL_Project\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\Darlok\Documents\Visual Studio 2012\Projects\ConsoleApplicationWithDAL\DAL_Project\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\Darlok\Documents\Visual Studio 2012\Projects\ConsoleApplicationWithDAL\DAL_Project\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\Darlok\Documents\Visual Studio 2012\Projects\ConsoleApplicationWithDAL\DAL_Project\DAL_Project\obj\Debug\DAL_Project.pdb
+C:\Users\doug_2\Downloads\WebAppWithDAL\WebAppWithDAL\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\doug_2\Downloads\WebAppWithDAL\WebAppWithDAL\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\doug_2\Downloads\WebAppWithDAL\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\doug_2\Downloads\WebAppWithDAL\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\doug_2\Downloads\WebAppWithDAL\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\WebAppWithDAL\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\WebAppWithDAL\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\WebAppWithDAL\DAL_Project\obj\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\DAL_Project\obj\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Movies\DAL_Project\bin\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Movies\DAL_Project\bin\Debug\DAL_Project.pdb
+C:\Users\Angele\Documents\Movies\DAL_Project\obj\Debug\DAL_Project.csprojResolveAssemblyReference.cache
+C:\Users\Angele\Documents\Movies\DAL_Project\obj\Debug\DAL_Project.dll
+C:\Users\Angele\Documents\Movies\DAL_Project\obj\Debug\DAL_Project.pdb

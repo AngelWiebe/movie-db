@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TVShows.master.cs" Inherits="Movies.TVShows" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="StyleSheet2.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="Body">
+    <form id="form1" runat="server">
+    <div>
+        <asp:LinkButton ID="lnkTVShows" runat="server" PostBackUrl="~/TVShows.aspx" Text="TV Show List" ForeColor="#ff3399" />
+        <asp:LinkButton ID="lnkSeasons" runat="server" PostBackUrl="~/Seasons.aspx" Text="Seasons" ForeColor="MistyRose" />
+        <asp:LinkButton ID="lnkCrud" runat="server" PostBackUrl="~/TVCrud.aspx" ForeColor="HotPink" Text="Modify TV List" />
+        <asp:LinkButton ID="lnkDownloads" runat="server" PostBackUrl="~/TvDownloads.aspx" ForeColor="LightCoral" Text="Download List" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+        <br /><br /><br /><asp:LinkButton ID="lnkMovies" Font-Size="Large" CssClass="Right" runat="server" PostBackUrl="~/List.aspx" Text="Go To Movies" ForeColor="LightPink" />
+    </div>
+    </form>
+</body>
+</html>

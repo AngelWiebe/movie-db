@@ -1,0 +1,189 @@
+﻿.Left {
+    font-family: 'Times New Roman';
+    float: left;
+    position: relative;
+    white-space: normal;
+    width:98%;
+    padding: 20px 20px 20px 20px;
+}
+
+.Top{
+    float:right;
+}
+
+.Right {
+    font-family: 'Times New Roman';
+    float: right;
+    position: relative;
+    width:98%;
+    text-align:left;
+}
+
+.RightLabel {
+    font-family: 'Times New Roman';
+    float: right;
+    position: relative;
+    width:98%;
+    text-align:center;
+}
+
+.Body {
+    background-image: url("Images/background2.jpg");
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 300;
+    line-height: 1.65em;
+    float:left;
+    width:93%;
+}
+
+.h2 {
+    font-size: 1.5em;
+}
+
+.header.major {
+    padding-bottom: 3em;
+    text-transform: uppercase;
+}
+
+header.major h2 {
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+    font-weight: 800;
+    font-size: 2.8em;
+}
+
+header.major .byline {
+    display: block;
+    margin: 0.50em 0 0 0;
+    padding: 0 0 0.5em 0;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+/* Form */
+form {
+    width: 106%;
+    margin: 0em auto;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    background: white;
+    color: deeppink;
+    display: block;
+    outline: 0;
+    padding: 1em 1em;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+    input[type="text"]:focus,
+    input[type="password"]:focus,
+    input[type="email"]:focus,
+    textarea:focus {
+        border-color: #d84780;
+    }
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    line-height: 1em;
+}
+
+/* Tables */
+.table {
+    width: 100%;
+}
+
+    .table.default {
+        width: 100%;
+    }
+
+        .table.default tbody tr {
+            border-bottom: solid 1px #888888;
+        }
+
+        .table.default td {
+            padding: 0.5em 1em 0.5em 1em;
+        }
+
+        .table.default th {
+            font-weight: 700;
+            padding: 0.5em 1em 0.5em 1em;
+            text-align: left;
+        }
+
+        .table.default thead {
+            background: #555555;
+            color: #fff;
+        }
+
+/* Button */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+.button {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    -moz-transition: background-color 0.35s ease-in-out;
+    -webkit-transition: background-color 0.35s ease-in-out;
+    -o-transition: background-color 0.35s ease-in-out;
+    -ms-transition: background-color 0.35s ease-in-out;
+    transition: background-color 0.35s ease-in-out;
+    background-color: hotpink;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: #FFF !important;
+    margin-left: 0px;
+}
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover,
+    input[type="button"]:hover,
+    .button:hover {
+        background-color: mistyrose;
+    }
+
+/* Header */
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #0F1116;
+    color: #fff;
+    padding: 1.25em 1.25em 1.25em 1.25em;
+    z-index: 100;
+}
+
+/* Page */
+#page {
+    position: relative;
+    background: #FFF;
+    padding: 6em 4em 6em 4em;
+    border-radius: 6px;
+}

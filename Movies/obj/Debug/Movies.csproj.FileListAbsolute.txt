@@ -1,0 +1,24 @@
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\bin\Movies.dll.config
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\bin\Movies.dll
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\bin\Movies.pdb
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\bin\DAL_Project.dll
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\bin\DAL_Project.pdb
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\obj\Debug\Movies.dll
+c:\users\angele\documents\visual studio 2013\Projects\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\bin\Movies.dll.config
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\bin\Movies.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\bin\Movies.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\bin\DAL_Project.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\bin\DAL_Project.pdb
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\Angele\Documents\Visual Studio 2013\Projects\Extra Projects\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\Angele\Documents\Movies\Movies\bin\Movies.dll.config
+C:\Users\Angele\Documents\Movies\Movies\bin\Movies.dll
+C:\Users\Angele\Documents\Movies\Movies\bin\Movies.pdb
+C:\Users\Angele\Documents\Movies\Movies\bin\DAL_Project.dll
+C:\Users\Angele\Documents\Movies\Movies\bin\DAL_Project.pdb
+C:\Users\Angele\Documents\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Angele\Documents\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\Angele\Documents\Movies\Movies\obj\Debug\Movies.pdb
